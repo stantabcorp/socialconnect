@@ -45,4 +45,8 @@ In the `/auth/callback` group:
 $this->get('/<yourservice>[/]', \SocialConnect\Controllers\Service\<YourService>Controller::class.':getAuthCallback')->setName('<yourservice>.auth.callback');
 ```
 
-Then submit a pull request if you want your service to be available for everyone ;) 
+Then submit a pull request if you want your service to be available for everyone ;)
+
+## License
+
+More infos on https://stantabcorp.com/license
