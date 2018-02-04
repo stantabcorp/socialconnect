@@ -2,7 +2,7 @@
     "name": "stantabcorp/socialconnect",
     "description": "Enable social login on your website",
     "type": "project",
-    "license": "STC",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Thibault Junin",
