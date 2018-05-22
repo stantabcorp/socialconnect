@@ -1,5 +1,11 @@
 <p align="center"><img src="SocialConnect_Logo.png" width="100"></p>
 <h1 align="center">SocialConnect</h1>
+<p align="center">
+<a href="https://packagist.org/packages/stantabcorp/socialconnect"><img src="https://poser.pugx.org/stantabcorp/socialconnect/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/stantabcorp/socialconnect"><img src="https://poser.pugx.org/stantabcorp/socialconnect/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/stantabcorp/socialconnect"><img src="https://poser.pugx.org/stantabcorp/socialconnect/license" alt="License"></a>
+<a href="https://discord.gg/hQnY3jP"><img src="https://discordapp.com/api/guilds/365929044442873898/widget.png" alt="Discord Server"></a>
+</p>
 The objectives of that project are to bring together most of the third-party login process!
 In order to use authentification for users management, you will need a valid SSL certificate
 
